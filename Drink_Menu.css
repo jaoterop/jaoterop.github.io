@@ -10,7 +10,7 @@ h1 {
   font-weight: 800;
   font-size: 5em;
   text-align: center;
-  color: black;
+  color: blue;
   text-transform: uppercase;
 }
 
@@ -265,7 +265,7 @@ h1 {
 
 /* Media query for smaller screens */
 /* Max for google Pixel 6 is 900px */
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 900px) {
   /* Cocktail container style */
   .cocktails {
     display: flex;
