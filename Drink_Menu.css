@@ -264,7 +264,7 @@ h1 {
 
 
 /* Media query for smaller screens */
-@media screen and (max-width: 280px) {
+@media screen and (max-width: 1000px) {
   /* Cocktail container style */
   .cocktails {
     display: flex;
