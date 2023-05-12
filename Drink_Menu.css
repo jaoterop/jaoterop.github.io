@@ -264,7 +264,8 @@ h1 {
 
 
 /* Media query for smaller screens */
-@media screen and (max-width: 768px) {
+/* Max for google Pixel 6 is +900px */
+@media screen and (max-width: 900px) {
   /* Cocktail container style */
   .cocktails {
     display: flex;
@@ -274,6 +275,6 @@ h1 {
 
   /* Cocktail style */
   .cocktail {
-    width: 50%;
+    width: 35%;
   }
 }
